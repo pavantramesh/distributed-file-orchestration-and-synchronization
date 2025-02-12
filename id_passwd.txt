@@ -1,0 +1,14 @@
+admin:admin123
+user:pass123
+test:test123
+guest:welcome1
+demo:demo123
+student:student1
+teacher:school123
+john:john1234
+mary:mary1234
+chris:chris123
+visitor:hello123
+manager:boss123
+staff:work123
+temp:temp1234
